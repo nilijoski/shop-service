@@ -1,7 +1,7 @@
 # 🏪 ShopService Application
 
-[![Build Status](https://github.com/ilijoski/shopservice/actions/workflows/maven.yml/badge.svg)](https://github.com/nilijoski/shop-service/actions)
-![Java 25](https://img.shields.io/badge/Java-25-blue.svg?logo=openjdk)
+![Build Status](https://github.com/nilijoski/shop-service/actions/workflows/maven.yml/badge.svg)
+![Java](https://img.shields.io/badge/Java-25%2B-orange)
 
 ## 📘 Overview
 This project implements a simple **Shop Management System** written in **Java 25** using **Maven**.  
