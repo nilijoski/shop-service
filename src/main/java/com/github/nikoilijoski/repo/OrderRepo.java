@@ -15,6 +15,6 @@ public interface OrderRepo {
 
     List<Order> getOrdersForCustomerName(String customerName);
 
-    Order getOrderById(int customerId);
+    Order getOrderById(int orderId);
 
 }
